@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DoaFacilApp</string>
+    <string name="DoaFacil">Doa Fácil</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="lbl_login">Login</string>
+    <string name="lbl_senha">Senha</string>
+    <string name="btn_login">Entrar</string>
+    <string name="lbl_sair">Sair</string>
+    <string name="title_activity_pessoa_doador">PessoaDoadorActivity</string>
+</resources>
